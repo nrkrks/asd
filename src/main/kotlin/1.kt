@@ -42,7 +42,7 @@ fun main()
 val charArray = CharArray (4)       //toplam 4 tane index atandı
 charArray [1] = 't'   //birinci indexe t yi atadık yani. ama index 0 dan başlar.
 
-
+//deneme
 
 
 
